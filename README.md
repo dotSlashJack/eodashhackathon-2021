@@ -1,6 +1,8 @@
 # eodashhackathon-2021
 ## Looking at the Big Picture: [SimpleAnimation](https://www.eodashboardhackathon.org/challenges/water-quality/looking-at-the-big-picture/teams/simpleanimation/project)
 
+## By Jack Hester, Claudia Herbert, William Kaminski, and Nathan McCall
+
 ## Overview
 
 Our code provides an engine to access water quality imagery from Sentinel-3 and true color imagery from Sentinel-2 and create animations from these images. We also provide example analysis of water quality, traffic, shipping, and lockdown data accessible through the  <a href="https://eodashboard.org/)>Earth Observatory Dashboard</a>.
