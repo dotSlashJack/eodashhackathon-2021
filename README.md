@@ -1,11 +1,12 @@
-# eodashhackathon-2021
 ## Looking at the Big Picture: [SimpleAnimation](https://www.eodashboardhackathon.org/challenges/water-quality/looking-at-the-big-picture/teams/simpleanimation/project)
+
+## Earth Observatory Dashboard Hackathon 2021 Submission
 
 ## By Jack Hester, Claudia Herbert, Nathan McCall and William Kaminski
 
 ## Overview
 
-Our code provides an engine to access water quality imagery from <a href="https://docs.sentinel-hub.com/api/latest/data/sentinel-3-olci-l1b/">Sentinel-3</a> and true color imagery from <a href="https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l1c/">Sentinel-2</a> for any geographic region, and to create animations from these images. We also provide example analysis of water quality, traffic, shipping, and lockdown data accessible that were accessible through the  <a href="https://eodashboard.org/)>Earth Observatory Dashboard</a>.
+Our code provides an engine to access water quality imagery from <a href="https://docs.sentinel-hub.com/api/latest/data/sentinel-3-olci-l1b/">Sentinel-3</a> and true color imagery from <a href="https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l1c/">Sentinel-2</a> for any geographic region, and to create animations from these images. We also provide example analysis of water quality, traffic, shipping, and lockdown data accessible that were accessible through the  <a href="https://eodashboard.org/">Earth Observatory Dashboard</a>.
 
 A project walkthrough, including examples of our animations, can be found in our <a href="https://docs.google.com/presentation/d/1ICpBsGad9guDAPmckSQgMn7REZDlzgcKfVOhFIKhyZU/edit?usp=sharing">SimpleAnimation presentation</a>.
 
